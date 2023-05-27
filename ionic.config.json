@@ -1,0 +1,7 @@
+{
+  "name": "transfert_argent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
